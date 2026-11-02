@@ -152,7 +152,7 @@ Toto je rozcestník k povinným výstupom študentského tímu pre predmet **Sys
 - [x] **About Us (Autorská dvojica)** vyplnené (profily, deľba práce, kontakty)
 - [ ] **Knowledge Contribution (KNIFE)** v príprave
 - [x] **Project Summary** vyplnené (kompletný projektový zámer od identifikácie po riziká)
-- [x] **Project Outcomes** pripravené (BOM rozpočet pod 15 €, CAD zostava, Python pipeline)
+- [x] **Project Outcomes** pripravené (BOM rozpočet pod 20 €, CAD zostava, Python pipeline)
 - [x] **Pitch Presentation** hotová (5 slajdov na 3–5 minútový pitch)
 - [ ] **Final Presentation** v príprave
 - [ ] **Reflexia** v príprave
