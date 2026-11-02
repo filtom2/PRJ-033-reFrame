@@ -153,16 +153,13 @@ fm_reserved2: ""
 |:---|:---|:---|:---|
 | **ST014** | **Milan Šeliga** | Rovnocenný autor & Co-Lead (Software / CV) | Koordinácia projektu, návrh a implementácia algoritmov spracovania obrazu (Python/OpenCV), integrácia pipelineu |
 | **ST016** | **Margaréta Strýčková** | Rovnocenná autorka & Co-Lead (Hardware / CAD) | Koordinácia projektu, návrh 3D modelov v CAD, ladenie tolerancií aditívnej výroby (FDM), integrácia LED osvetlenia a difúzie |
-| **ST014 & ST016** | **Milan Šeliga & Margaréta Strýčková** | QA & Dokumentácia (Spoločne) | Testovanie presnosti orezu a farebnej kalibrácie, technická dokumentácia, príprava testovacieho datasetu |
 
 ---
 
 ### 3. Motivácia tímu
 
 - **Prečo sme si vybrali tento projekt:**  
-  Máme osobný vzťah k analógovej fotografii a zároveň hľadáme praktické prepojenie fyzického prototypovania s počítačovým videním. Fascinuje nás myšlienka vytvoriť reálny, hmatateľný nástroj, ktorý nie je len dekoráciou, ale plnohodnotným pracovným nástrojom.
-- **Osobný a profesijný zmysel:**  
-  Projekt nám umožňuje prehĺbiť si zručnosti v dvoch kľúčových technických oblastiach: presné mechanické inžinierstvo pre 3D tlač (rešpektovanie mikrometrových tolerancií filmu) a nízkoúrovňové spracovanie obrazu bez použitia hotových proprietárnych „čiernych skriniek“.
+  Máme osobný vzťah k analógovej fotografii. A v dnešnej dobe sa znovu stáva aktuálnou témou a znovu si získava popularitu, ale stalo sa to aj drahým hobby kedže vyvolávanie jedného filmu +/- od 10 až do 14 eur. 
 - **Prečo je projekt dôležitý a aký problém rieši:**  
   V digitálnom svete čelíme fenoménu straty dát – expirované linky z fotolaboratórií, zlyhania pevných diskov alebo zmazané cloudové úložiská. Mnoho ľudí má doma vyvolané negatívy, ktorých digitálne súbory sa stratili alebo existujú len v zastaranom, nízkom rozlíšení spred 15 rokov. Komerčné reskenovanie je drahé (cca 8–12 € za film) a pomalé. Negatív funguje ako trvácna fyzická záloha a náš projekt k nemu vytvára dostupnú digitálnu čítačku.
 
