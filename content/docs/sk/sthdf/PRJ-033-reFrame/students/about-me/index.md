@@ -177,7 +177,7 @@ Sme študentská autorská dvojica z Fakulty informatiky a informačných techno
 
 ### Očakávania od predmetu a čo ponúkam
 - **Očakávania:** Získať praktickú skúsenosť s prepojením digitálného dizajnu so softvérovým projektom v tíme.
-- **Čo viem ponúknuť:** CAD modelovanie, skúsenosti s 3D tlačou a zmysel pre estetiku a dizajn hardvéru.
+- **Čo viem ponúknuť:** Skúsenosti s programovaním v Pythone, zmysel pre estetiku a dizajn hardvéru.
 
 ---
 
@@ -189,6 +189,7 @@ Prácu na projekte máme rozdelenú podľa našich zameraní:
   - CAD návrh optického tubusu a základne,
   - ladenie tolerancií vodiacej drážky filmu (35.25 mm) s bezdotykovou zónou,
   - riešenie difúzie LED podsvietenia
+  - poskytnutie filmových roliek
 
 - **Milan Šeliga (softvérová časť):**
   - algoritmická kompenzácia oranžovej masky C-41,
