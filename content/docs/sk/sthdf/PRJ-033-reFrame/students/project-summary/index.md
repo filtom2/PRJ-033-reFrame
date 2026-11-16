@@ -212,7 +212,7 @@ Riešenie prepája tri základné piliere v jednotnom procesnom toku:
   - [ ] **Testovanie a kalibrácia:** Overenie hladkého posuvu filmu v drážke, meranie rovnomernosti difúzie svetla, ladenie tonálnej krivky.
   - [ ] **Finálna prezentácia:** Spracovanie ukážok pred/po, kompletizácia dokumentácie a obhajoba prototypu.
 
-#### Míľniky a výstupy (Do januára dodáme):
+#### výstupy:
 - **Prototyp:** Zložená 3D tlačená optická komora s funkčným LED podsvietením a slotom na telefón.
 - **Dokumentácia:** Technická správa s parametrami tolerancií tlače, popísaným algoritmom a návodom na obsluhu.
 - **Prezentácia:** Slajdy demonštrujúce riešenie problému straty dát, rekonštrukciu fotografií a živé demo skenovania.
