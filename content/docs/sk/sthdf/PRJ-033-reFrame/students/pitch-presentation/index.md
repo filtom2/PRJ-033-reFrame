@@ -152,15 +152,15 @@ fm_reserved2: ""
 ---
 
 ## 3. Hodnota
-- **Nulové priebežné náklady:** Digitalizácia celého 36-obrázkového filmu stojí len pár centov elektrickej energie.
-- **Rýchlosť:** Digitalizácia a softvérový prevod jedného políčka trvá len sekundy, celý film je hotový do 10 minút.
-- **Bezpečnosť média:** Premyslená konštrukcia s bezdotykovou zónou zabezpečuje, že emulzia filmu neprichádza do styku s mechanickými časťami a nehrozí jej poškriabanie.
-- **Vysoké rozlíšenie:** Moderné snímače smartfónov poskytujú dostatočné rozlíšenie na tlač veľkých formátov.
+- **znizene priebežné náklady:** Digitalizácia celého 36-obrázkového filmu stojí len pár centov elektrickej energie.
+- **Rýchlosť:** Digitalizácia a softvérový prevod jedného políčka trvá len sekundy, celý film je hotový do 10 minút.(najlepsi scenar)
+- **Bezpečnosť média:**  konštrukcia s bezdotykovou zónou zabezpečuje, že emulzia filmu neprichádza do styku s mechanickými časťami a nehrozí jej poškriabanie.
+
 
 ---
 
 ## 4. Biznis model
-- **Open-source:** 3D modely (`.STL`) a Python kód sú voľne dostupné pre komunitu (MIT / CC-BY licencia).
+-  3D modely (`.STL`) a Python kód sa vedia predavat, ludia si to vedia zakupi online a vytlacit v 3d tlaciarni vlastnymi prostriedkami
 
 ---
 
