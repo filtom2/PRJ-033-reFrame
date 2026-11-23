@@ -27,7 +27,7 @@ dao: "sthdf"
 title: "Pitch Presentation – Re:Frame 35"
 
 # Krátky popis – dopĺňa používateľ (voliteľné)
-description: "Prezentačný koncept a scenár krátkeho 3–5 minútového pitchu projektu Re:Frame 35."
+description: "Prezentačný koncept a scenár krátkeho pitchu projektu Re:Frame 35."
 
 
 # AUTHORSHIP ------------------------------------------------------
